@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{3E607F8D-6D81-4D82-BA41-93380B08F413}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ExpenseTracker PreferredExecutionTarget="/Applications/Arc.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExpenseTracker/Program.cs">
+    <Files>
+      <File FileName="ExpenseTracker/Models/Category.cs" Line="15" Column="3" />
+      <File FileName="ExpenseTracker/Models/Transation.cs" Line="20" Column="39" />
+      <File FileName="ExpenseTracker/Models/ApplicationDbContext.cs" Line="18" Column="1" />
+      <File FileName="ExpenseTracker/Program.cs" Line="21" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExpenseTracker" expanded="True">
+            <Node name="ExpenseTracker">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

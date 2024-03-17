@@ -1,0 +1,8 @@
+/Users/macbookpro2021/Desktop/ExpenseTracker/ExpenseTracker/obj/Debug/net6.0/ExpenseTracker.csproj.AssemblyReference.cache
+/Users/macbookpro2021/Desktop/ExpenseTracker/ExpenseTracker/obj/Debug/net6.0/ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro2021/Desktop/ExpenseTracker/ExpenseTracker/obj/Debug/net6.0/ExpenseTracker.AssemblyInfoInputs.cache
+/Users/macbookpro2021/Desktop/ExpenseTracker/ExpenseTracker/obj/Debug/net6.0/ExpenseTracker.AssemblyInfo.cs
+/Users/macbookpro2021/Desktop/ExpenseTracker/ExpenseTracker/obj/Debug/net6.0/ExpenseTracker.csproj.CoreCompileInputs.cache
+/Users/macbookpro2021/Desktop/ExpenseTracker/ExpenseTracker/obj/Debug/net6.0/ExpenseTracker.MvcApplicationPartsAssemblyInfo.cache
+/Users/macbookpro2021/Desktop/ExpenseTracker/ExpenseTracker/obj/Debug/net6.0/ExpenseTracker.RazorAssemblyInfo.cache
+/Users/macbookpro2021/Desktop/ExpenseTracker/ExpenseTracker/obj/Debug/net6.0/ExpenseTracker.RazorAssemblyInfo.cs
